@@ -35,7 +35,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 
 
-//d2615bee9c9e5bd50dbe79d8ffcf310a
+//
 //https://api.openweathermap.org/data/2.5/weather?q={city name},{state code}&appid={API key}
 //https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
 //example: https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid={API key}
